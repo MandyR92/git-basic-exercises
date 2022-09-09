@@ -1,0 +1,268 @@
+    1  cd Desktop
+    2  git clone https://github.com/Umuzi-org/Makhura-Rasemphe-245-evolution-of-linux-visualisation-python.git
+    3  cd Makhura-Rasemphe-245-evolution-of-linux-visualisation-python
+    4  git pull origin main
+    5  git log
+    6  git checkout project
+    7  git log
+    8  git reset HEAD^
+    9  git log
+   10  git status
+   11  cd Desktop
+   12  git clone https://github.com/Umuzi-org/Makhura-Rasemphe-245-evolution-of-linux-visualisation-python.git
+   13  cd Makhura-Rasemphe-245-evolution-of-linux-visualisation-python
+   14  git checkout project
+   15  git status
+   16  git checkout main
+   17  git pull origin main
+   18  git checkout project
+   19  git status
+   20  git status
+   21  git add .
+   22  git status
+   23  git add requirements.txt
+   24  git add datasets/git_log_excerpt.csv
+   25  git status
+   26  git commit -m "files"
+   27  git push origin project
+   28  cd Desktop
+   29  git clone https://github.com/Umuzi-org/Makhura-Rasemphe-245-evolution-of-linux-visualisation-python.git
+   30  cd Makhura-Rasemphe-245-evolution-of-linux-visualisation-python
+   31  git pull origin main
+   32  git checkout project
+   33  git log
+   34  git reset --hard HEAD~2
+   35  git log
+   36  git status
+   37  git add.
+   38  git add .
+   39  git status
+   40  git commit -m "project"
+   41  git status
+   42  git push origin project
+   43  git pull origin main
+   44  git push origin project
+   45  cd Desktop
+   46  cd
+   47  cd Documents
+   48  git clone https://github.com/Umuzi-org/Makhura-Rasemphe-245-evolution-of-linux-visualisation-python.git
+   49  cd Makhura-Rasemphe-245-evolution-of-linux-visualisation-python
+   50  git pull origin main
+   51  git checkout project
+   52  git log
+   53  git reset --hard HEAD~2
+   54  git push origin +project
+   55  git status
+   56  git add .
+   57  git status
+   58  git commit -m "Project"
+   59  git push origin project
+   60  cd Downloads
+   61  git clone https://github.com/Umuzi-org/Makhura-Rasemphe-245-evolution-of-linux-visualisation-python.git
+   62  cd Makhura-Rasemphe-245-evolution-of-linux-visualisation-python
+   63  git pull origin main
+   64  git checkout project
+   65  git log
+   66  git reset -hard HEAD~
+   67  git reset --hard HEAD~
+   68  git push origin +project
+   69  git status
+   70  git add .
+   71  git status
+   72  git commit -m "Project"
+   73  git status
+   74  git push origin project
+   75  cd Desktop
+   76  git clone https://github.com/Umuzi-org/Makhura-Rasemphe-245-evolution-of-linux-visualisation-python.git
+   77  cd Makhura-Rasemphe-245-evolution-of-linux-visualisation-python
+   78  git pull origin main
+   79  git checkout project
+   80  git log
+   81  git --hard HEAD~
+   82  git reset --hard HEARD
+   83  `git reset --hard HEAD~
+   84  cd
+   85  cd Desktop
+   86  cd Makhura-Rasemphe-245-evolution-of-linux-visualisation-python
+   87  git checkout project
+   88  git log
+   89  git reset --hard HEAD~
+   90  git push origin +project
+   91  git status
+   92  fit add .
+   93  git add .
+   94  git status
+   95  git commit -m "Project"
+   96  git push origin project
+   97  man
+   98  man mkdir
+   99  man man
+  100  cd Desktop
+  101  git clone https://github.com/Umuzi-org/Makhura-Rasemphe-245-evolution-of-linux-visualisation-python.git
+  102  cd Makhura-Rasemphe-245-evolution-of-linux-visualisation-python
+  103  git pull origin main
+  104  git checkout project
+  105  git log
+  106  git reset --hard HEAD~
+  107  git push origin +project
+  108  git status
+  109  git add .
+  110  git status
+  111  git commit -m "Project"
+  112  git push origin project
+  113  cd Desktop
+  114  git clone https://github.com/Umuzi-org/Makhura-Rasemphe-245-evolution-of-linux-visualisation-python.git
+  115  cd Makhura-Rasemphe-245-evolution-of-linux-visualisation-python
+  116  git pull origin main
+  117  git log
+  118  git checkout project
+  119  git log
+  120  git checkout main
+  121  git rm -r Datasets
+  122  git rm -r Notebook
+  123  git checkout project
+  124  git rm -r Notebook
+  125  git rm -r Datasets
+  126  git rm -r datasets
+  127  git rm -r requirements.txt
+  128  git status
+  129  git commit -m "Deleted files"
+  130  git status
+  131  git status
+  132  git add .
+  133  git status
+  134  git commit -m "Updated files"
+  135  git status
+  136  git push origin project
+  137  cd Desktop
+  138  git clone https://github.com/Umuzi-org/Makhura-Rasemphe-245-evolution-of-linux-visualisation-python.git
+  139  cd 'Makhura-Rasemphe-245-evolution-of-linux-visualisation-python
+  140  cd Desktop
+  141  Makhura-Rasemphe-245-evolution-of-linux-visualisation-python
+  142  cd Makhura-Rasemphe-245-evolution-of-linux-visualisation-python
+  143  git pull origin main
+  144  git checkout Project
+  145  git pull origin Project
+  146  git ;og
+  147  git rm Notebook.ipynb
+  148  git rm Notebook
+  149  git rm -r Notebook
+  150  git commit -m "Removed Notebook"
+  151  git rm -r Datasets
+  152  git commit -m "Removed datasets"
+  153  git status
+  154  git add .
+  155  git status
+  156  git commit -m "Modified files"
+  157  git push origin Project
+  158  cd Desktop
+  159  git clone https://github.com/Umuzi-org/Makhura-Rasemphe-648-bootcamp-exploratory-data-analysis-python.git
+  160  cd Documents
+  161  cd udacity
+  162  jupyter notebook
+  163  pip install jupyter notebook
+  164  jupyter notebook
+  165  cd C:\Users\MCMS\Desktop\mypackage
+  166  cd Desktop
+  167  cd mypackage
+  168  python setup.py sdist
+  169  git init
+  170  git add .
+  171  git commit -m "First commit"
+  172  git remote add origin https://github.com/MandyR92/mypackage.git
+  173  git push origin master
+  174  pip install git+https://github.com/MandyR92/mypackage.git
+  175  cd Desktop
+  176  mkdir git-basic-exercises
+  177  ls
+  178  mkdir git-basic-exercises
+  179  ls
+  180  mkdir git-basic-exercises
+  181  cd git-basic-exercises
+  182  ls
+  183  ls -a
+  184  git init
+  185  ls -a
+  186  git status
+  187  touch README.md
+  188  ls -a
+  189  git status
+  190  git log
+  191  git add README.md
+  192  git status
+  193  git rm --catched README.md
+  194  git status
+  195  git commit -m "initial commit"
+  196  git log
+  197  q
+  198  nano README.md
+  199  cat README.md
+  200  git status
+  201  git add README.md
+  202  git status
+  203  git commit "second commit"
+  204  git commit -m "second commit"
+  205  git status
+  206  touch README.md
+  207  nano README.md
+  208  cat README.md
+  209  git status
+  210  git add README.md
+  211  git commit -m "third commit"
+  212  nano README.md
+  213  cat README.md
+  214  git status
+  215  git add README.md
+  216  git commit -m "third commit"
+  217  git log
+  218  git rm -r git-basic-exercises
+  219  mkdir git_basic_exercises
+  220  cd git_basic_exercises
+  221  ls -a
+  222  git init
+  223  ls -a
+  224  git status
+  225  touch README.md
+  226  ls -a
+  227  git status
+  228  git log
+  229  git add README.md
+  230  git status
+  231  git commit -m "initial commit"
+  232  nano README.md
+  233  cat README.md
+  234  git status
+  235  git add README.md
+  236  git commit -m "second commit"
+  237  nano README.md
+  238  cat README.md
+  239  git status
+  240  git add README.md
+  241  git status
+  242  git commit -m "third commit"
+  243  git log
+  244  q
+  245  git checkout  c9390d3cd53aa39f426c773adfb9077521828181
+  246  cat README.md
+  247  git checkout main
+  248  git checkout master
+  249  cat README.md
+  250  git checkout -b milkshake-flavours
+  251  git branch
+  252  git branch
+  253  git checkout master
+  254  git branch
+  255  git checkout milkshake-flavours
+  256  git branch
+  257  nano milkshakes.md
+  258  git status
+  259  git add milkshakes.md
+  260  git status
+  261  git commit -m "added initial flavours"
+  262  git log
+  263  git checkout master
+  264  git branch
+  265  git checkout -b history
+  266  git log
+  267  git branch
+  268  history > history.txt
